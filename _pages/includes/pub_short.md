@@ -3,8 +3,8 @@
 
 My full paper list is shown at [my personal homepage](https://cyinen.github.io).
 
-#### 🎙 Audio and Speech Processing
-- ``CVPRW 2023`` [Multimodal feature extraction and fusion for emotional reaction intensity estimation and expression classification in videos with transformers](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
+#### 🎙 Affective Computing
+- ``CVPRW 2023`` [Multimodal feature extraction and fusion for emotional reaction intensity estimation and expression classification in videos with transformers](https://openaccess.thecvf.com/content/CVPR2023W/ABAW/papers/Li_Multimodal_Feature_Extraction_and_Fusion_for_Emotional_Reaction_Intensity_Estimation_CVPRW_2023_paper.pdf) \\
 Jia Li*, **Yin Chen\***, Xuesong Zhang, Jiantao Nie, Ziqiang Li, Yangchen Yu, Yan Zhang, Richang Hong† ,Meng Wang
 
 
