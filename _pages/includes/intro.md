@@ -1,4 +1,4 @@
-I am Yin, a Phd. student in Information and Communication Engineering, Hefei University of Technology (HFUT).
+I am Yin Chen (陈 银), a Phd. student in Information and Communication Engineering, Hefei University of Technology (HFUT).
 
 I'm now focusing on Computer Vision, Multimedia Affective Computing, Facial Expression Recogniiton. If you are seeking any form of **academic cooperation**, please feel free to email me at [chenyin@mail.hfut.edu.cn](mailto:chenyin@mail.hfut.edu.cn).
 
