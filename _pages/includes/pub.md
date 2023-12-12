@@ -17,7 +17,7 @@ Jia Li*, **Yin Chen\***, Xuesong Zhang, Jiantao Nie, Ziqiang Li, Yangchen Yu, Ya
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/WechatIMG163.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/iShot_2023-12-12_10.02.57.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos](https://arxiv.org/abs/2312.05447)\\
