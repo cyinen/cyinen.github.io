@@ -16,6 +16,22 @@ Jia Li*, **Yin Chen\***, Xuesong Zhang, Jiantao Nie, Ziqiang Li, Yangchen Yu, Ya
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/WechatIMG163.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos](https://arxiv.org/abs/2312.05447)\\
+**Yin Chen\***, Jia Li*, Shiguang Shan, Meng Wang, Richang Hong
+
+
+[**Project**](https://github.com/FER-LMC/S2D) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- The offical implementation of the paper: From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos
+
+</div>
+</div>
+
+
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
