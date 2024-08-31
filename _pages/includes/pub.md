@@ -18,7 +18,7 @@ Jia Li*, **Yin Chen\***, Xuesong Zhang, Jiantao Nie, Ziqiang Li, Yangchen Yu, Ya
 
 ## 🎙 Dynamic Facial Expression Recognition
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/iShot_2023-12-12_10.02.57.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAFFC 2024</div><img src='images/iShot_2023-12-12_10.02.57.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos](https://arxiv.org/abs/2312.05447)\\
@@ -26,9 +26,9 @@ Jia Li*, **Yin Chen\***, Xuesong Zhang, Jiantao Nie, Ziqiang Li, Yangchen Yu, Ya
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-static-to-dynamic-adapting-landmark-1/dynamic-facial-expression-recognition-on-dfew)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on-dfew?p=from-static-to-dynamic-adapting-landmark-1)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-static-to-dynamic-adapting-landmark-1/dynamic-facial-expression-recognition-on)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on?p=from-static-to-dynamic-adapting-landmark-1)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-static-to-dynamic-adapting-landmark-1/dynamic-facial-expression-recognition-on-mafw)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on-mafw?p=from-static-to-dynamic-adapting-landmark-1)
-![GitHub stars](https://img.shields.io/github/stars/FER-LMC/S2D)
+![GitHub stars](https://img.shields.io/github/stars/MSA-LMC/S2D)
 
-[**Github**](https://github.com/FER-LMC/S2D) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Github**](https://github.com/MSA-LMC/S2D) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - The offical implementation of the paper: From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos.
 
