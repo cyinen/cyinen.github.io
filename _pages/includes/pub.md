@@ -16,7 +16,7 @@ Jia Li*, **Yin Chen\***, Xuesong Zhang, Jiantao Nie, Ziqiang Li, Yangchen Yu, Ya
 </div>
 </div>
 
-## 🎙 Dynamic Facial Expression Recognition
+<!-- ## 🎙 Dynamic Facial Expression Recognition -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAFFC 2024</div><img src='images/iShot_2023-12-12_10.02.57.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
