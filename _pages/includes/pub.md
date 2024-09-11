@@ -3,19 +3,6 @@
 ## 🎙Affective Computing
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2023</div><img src='images\9cf7ac3f5368cecc527d73fafd59eb2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multimodal feature extraction and fusion for emotional reaction intensity estimation and expression classification in videos with transformers](https://openaccess.thecvf.com/content/CVPR2023W/ABAW/html/Li_Multimodal_Feature_Extraction_and_Fusion_for_Emotional_Reaction_Intensity_Estimation_CVPRW_2023_paper.html) \\
-Jia Li*, **Yin Chen\***, Xuesong Zhang, Jiantao Nie, Ziqiang Li, Yangchen Yu, Yan Zhang, Richang Hong† ,Meng Wang
-
-[**Project**](https://github.com/cyinen/CVPR2023-ABAW5-ERI) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
-- The Winner's Solution of CVPR2023-ABAW5 Emotional Reaction Intensity (ERI) Estimation Challenge.
-
-</div>
-</div>
-
 <!-- ## 🎙 Dynamic Facial Expression Recognition -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAFFC 2024</div><img src='images/iShot_2023-12-12_10.02.57.png' alt="sym" width="100%"></div></div>
@@ -35,6 +22,20 @@ Jia Li*, **Yin Chen\***, Xuesong Zhang, Jiantao Nie, Ziqiang Li, Yangchen Yu, Ya
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2023</div><img src='images\9cf7ac3f5368cecc527d73fafd59eb2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multimodal feature extraction and fusion for emotional reaction intensity estimation and expression classification in videos with transformers](https://openaccess.thecvf.com/content/CVPR2023W/ABAW/html/Li_Multimodal_Feature_Extraction_and_Fusion_for_Emotional_Reaction_Intensity_Estimation_CVPRW_2023_paper.html) \\
+Jia Li*, **Yin Chen\***, Xuesong Zhang, Jiantao Nie, Ziqiang Li, Yangchen Yu, Yan Zhang, Richang Hong† ,Meng Wang
+
+[**Project**](https://github.com/cyinen/CVPR2023-ABAW5-ERI) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- The Winner's Solution of CVPR2023-ABAW5 Emotional Reaction Intensity (ERI) Estimation Challenge.
+
+</div>
+</div>
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
