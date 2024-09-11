@@ -16,7 +16,7 @@
 
 [**Github**](https://github.com/MSA-LMC/UniLearn) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- UniLearn: Enhancing Dynamic Facial Expression Recognition through Unified Pre-Training and Fine-Tuning on Images and Videos.
+-  The offical implementation of the paper: "Enhancing Dynamic Facial Expression Recognition through Unified Pre-Training and Fine-Tuning on Images and Videos".
 
 </div>
 </div>
