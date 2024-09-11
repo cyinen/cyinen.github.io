@@ -13,9 +13,9 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unilearn-enhancing-dynamic-facial-expression/dynamic-facial-expression-recognition-on)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on?p=unilearn-enhancing-dynamic-facial-expression)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unilearn-enhancing-dynamic-facial-expression/dynamic-facial-expression-recognition-on-mafw)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on-mafw?p=unilearn-enhancing-dynamic-facial-expression)
 
-![GitHub stars](https://img.shields.io/github/stars/MSA-LMC/UniLearn)
 
-[**Github**](https://github.com/MSA-LMC/UniLearn) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+[**Github**](https://github.com/MSA-LMC/UniLearn) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> ![GitHub stars](https://img.shields.io/github/stars/MSA-LMC/UniLearn)
 
 -  The offical implementation of the paper: "Enhancing Dynamic Facial Expression Recognition through Unified Pre-Training and Fine-Tuning on Images and Videos".
 
@@ -35,9 +35,9 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-static-to-dynamic-adapting-landmark-1/dynamic-facial-expression-recognition-on)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on?p=from-static-to-dynamic-adapting-landmark-1)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-static-to-dynamic-adapting-landmark-1/dynamic-facial-expression-recognition-on-mafw)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on-mafw?p=from-static-to-dynamic-adapting-landmark-1)
 
-![GitHub stars](https://img.shields.io/github/stars/MSA-LMC/S2D)
 
-[**Github**](https://github.com/MSA-LMC/S2D) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+[**Github**](https://github.com/MSA-LMC/S2D) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> ![GitHub stars](https://img.shields.io/github/stars/MSA-LMC/S2D)
 
 - The offical implementation of the paper: From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos.
 
