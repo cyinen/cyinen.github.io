@@ -8,9 +8,7 @@
 [DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation](https://arxiv.org/pdf/2410.08470) \\
 Jia Li, Yangchen Yu, **Yin Chen**, Yu Zhang, Peng Jia, Yunbo Xu, Ziqiang Li, Meng Wang, Richang Hong
 
-[**Project**](https://github.com/MSA-LMC/DAT) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
-![GitHub stars](https://img.shields.io/github/stars//MSA-LMC/DAT)
+[**Github**](https://github.com/MSA-LMC/DAT) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> ![GitHub stars](https://img.shields.io/github/stars/MSA-LMC/DAT)
 
 - The Winner's Solution of MM 2024  Human Engagement Estimation Challenge.
 
