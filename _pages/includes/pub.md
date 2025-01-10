@@ -26,7 +26,7 @@ Jia Li, Yangchen Yu, **Yin Chen**, Yu Zhang, Peng Jia, Yunbo Xu, Ziqiang Li, Men
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unilearn-enhancing-dynamic-facial-expression/dynamic-facial-expression-recognition-on)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on?p=unilearn-enhancing-dynamic-facial-expression)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unilearn-enhancing-dynamic-facial-expression/dynamic-facial-expression-recognition-on-mafw)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on-mafw?p=unilearn-enhancing-dynamic-facial-expression)
 
-
+![alt text](image.png)
 
 [**Github**](https://github.com/MSA-LMC/UniLearn) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> ![GitHub stars](https://img.shields.io/github/stars/MSA-LMC/UniLearn)
 
