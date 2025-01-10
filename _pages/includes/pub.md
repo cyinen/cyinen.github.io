@@ -16,19 +16,19 @@ Jia Li, Yangchen Yu, **Yin Chen**, Yu Zhang, Peng Jia, Yunbo Xu, Ziqiang Li, Men
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/unilearn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/s4d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UniLearn: Enhancing Dynamic Facial Expression Recognition through Unified Pre-Training and Fine-Tuning on Images and Videos](https://arxiv.org/pdf/2409.06154)\\
+[Static for Dynamic: Towards a Deeper Understanding of Dynamic Facial Expressions Using Static Expression Data](https://arxiv.org/pdf/2409.06154)\\
 **Yin Chen†**, Jia Li, Yu Zhang, Zhenzhen Hu, Shiguang Shan, Meng Wang, Richang Hong*
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unilearn-enhancing-dynamic-facial-expression/dynamic-facial-expression-recognition-on-dfew)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on-dfew?p=unilearn-enhancing-dynamic-facial-expression)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unilearn-enhancing-dynamic-facial-expression/dynamic-facial-expression-recognition-on)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on?p=unilearn-enhancing-dynamic-facial-expression)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unilearn-enhancing-dynamic-facial-expression/dynamic-facial-expression-recognition-on-mafw)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on-mafw?p=unilearn-enhancing-dynamic-facial-expression)
 
-![alt text](image.png)
 
-[**Github**](https://github.com/MSA-LMC/UniLearn) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> ![GitHub stars](https://img.shields.io/github/stars/MSA-LMC/UniLearn)
+
+[**Github**](https://github.com/MSA-LMC/S4D) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> ![GitHub stars](https://img.shields.io/github/stars/MSA-LMC/S4D)
 
 -  The offical implementation of the paper: "Enhancing Dynamic Facial Expression Recognition through Unified Pre-Training and Fine-Tuning on Images and Videos".
 
