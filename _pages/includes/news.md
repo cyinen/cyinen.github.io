@@ -2,7 +2,7 @@
 
 
 - *2024.09*: 🎉 New workshop paper [DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation](https://arxiv.org/abs/2410.08470) is accepted by MM2024.
-- *2024.09*: 🎉 New paper [UniLearn: Enhancing Dynamic Facial Expression Recognition through Unified Pre-Training and Fine-Tuning on Images and Videos](https://arxiv.org/pdf/2409.06154) is preprinted on arXiv.
+- *2024.09*: 🎉 New paper [Static for Dynamic: Towards a Deeper Understanding of Dynamic Facial Expressions Using Static Expression Data](https://arxiv.org/pdf/2409.06154) is preprinted on arXiv.
 - *2024.08*: 🎉 One paper [From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos](https://arxiv.org/abs/2312.05447) is accepted by TAFFC.
 
 <!-- - *2023.12*: 🎉 ~~New paper [From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos](https://arxiv.org/abs/2312.05447) is preprinted on arXiv.~~

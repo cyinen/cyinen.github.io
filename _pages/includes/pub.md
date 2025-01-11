@@ -30,7 +30,7 @@ Jia Li, Yangchen Yu, **Yin Chen**, Yu Zhang, Peng Jia, Yunbo Xu, Ziqiang Li, Men
 
 [**Github**](https://github.com/MSA-LMC/S4D) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> ![GitHub stars](https://img.shields.io/github/stars/MSA-LMC/S4D)
 
--  The offical implementation of the paper: "Enhancing Dynamic Facial Expression Recognition through Unified Pre-Training and Fine-Tuning on Images and Videos".
+-  The offical implementation of the paper: "Static for Dynamic: Towards a Deeper Understanding of Dynamic Facial Expressions Using Static Expression Data".
 
 </div>
 </div>
