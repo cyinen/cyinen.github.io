@@ -1,4 +1,6 @@
 # 🎖 Honors and Awards
+- 2023 CVPR Workshop ABAW5, 情感反应强度估计挑战赛冠军
+- 2024 MM Workshop, 参与度估计挑战赛季军
 -  微软明日之星
 -  合肥工业大学研究生一等奖学金x3
 -  合肥工业大学三好学生 
