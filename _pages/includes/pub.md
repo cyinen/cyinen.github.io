@@ -3,7 +3,7 @@
 ## 🎙Affective Computing
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='https://github.com/user-attachments/assets/2d3f05e6-db6a-40fa-a535-fa99e60522cf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='https://github.com/user-attachments/assets/2d3f05e6-db6a-40fa-a535-fa99e60522cf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalizable Engagement Estimation in Conversation via Domain Prompting and Parallel Attention](https://arxiv.org/abs/2508.14448) \\
