@@ -8,6 +8,6 @@ My full paper list is shown at [my personal homepage](https://cyinen.github.io).
 Jia Li*, **Yin Chen\***, Xuesong Zhang, Jiantao Nie, Ziqiang Li, Yangchen Yu, Yan Zhang, Richang Hong† ,Meng Wang
 #### 🎙 Dynamic Facial Expression Recognition
 
-- ``TAFFC 2023`` [From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos](https://arxiv.org/abs/2312.05447)\\
+- ``TAFFC 2024`` [From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos](https://arxiv.org/abs/2312.05447)\\
 **Yin Chen\***, Jia Li*, Shiguang Shan, Meng Wang, Richang Hong
 
