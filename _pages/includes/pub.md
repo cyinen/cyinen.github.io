@@ -30,7 +30,7 @@ Jia Li, Yangchen Yu, **Yin Chen**, Yu Zhang, Peng Jia, Yunbo Xu, Ziqiang Li, Men
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/s4d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> TAFFC 2025</div><img src='images/s4d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Static for Dynamic: Towards a Deeper Understanding of Dynamic Facial Expressions Using Static Expression Data](https://arxiv.org/pdf/2409.06154)\\
@@ -58,10 +58,14 @@ Jia Li, Yangchen Yu, **Yin Chen**, Yu Zhang, Peng Jia, Yunbo Xu, Ziqiang Li, Men
 
 [From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos](https://arxiv.org/abs/2312.05447)\\
 **Yin Chen†**, Jia Li†*, Shiguang Shan, Meng Wang, Richang Hong*
+<<<<<<< HEAD
+=======
 <!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-static-to-dynamic-adapting-landmark-1/dynamic-facial-expression-recognition-on-dfew)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on-dfew?p=from-static-to-dynamic-adapting-landmark-1)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-static-to-dynamic-adapting-landmark-1/dynamic-facial-expression-recognition-on)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on?p=from-static-to-dynamic-adapting-landmark-1)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/from-static-to-dynamic-adapting-landmark-1/dynamic-facial-expression-recognition-on-mafw)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on-mafw?p=from-static-to-dynamic-adapting-landmark-1) -->
+>>>>>>> 13d4a462824b30a07eb49f05959f89c6888158ac
 
+**[Highly Cited Paper] Yin Chen, et al., IEEE Trans. Affective Computing, 2025**
 
 
 [**Github**](https://github.com/MSA-LMC/S2D) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> ![GitHub stars](https://img.shields.io/github/stars/MSA-LMC/S2D)
