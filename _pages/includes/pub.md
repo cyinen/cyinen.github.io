@@ -64,7 +64,7 @@ Jia Li, Yangchen Yu, **Yin Chen**, Yu Zhang, Peng Jia, Yunbo Xu, Ziqiang Li, Men
 [**Github**](https://github.com/MSA-LMC/S2D) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> ![GitHub stars](https://img.shields.io/github/stars/MSA-LMC/S2D)
 
 - The offical implementation of the paper: From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos.
-- **[Highly Cited Paper] Yin Chen, et al., IEEE Trans. Affective Computing, 2025**
+- **ESI Highly Cited Paper (Top 1% in the field, updated to June 2025)**
 
 </div>
 </div>
