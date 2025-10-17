@@ -3,7 +3,7 @@
 
 
 - *2025.10*: 🎉 New paper [Static for Dynamic: Towards a Deeper Understanding of Dynamic Facial Expressions Using Static Expression Data](https://arxiv.org/pdf/2409.06154) is accepted by TAFFC.
-- *2024.09*: 🎉 S2D has been recognized as a Highly Cited Paper by Web of Science (Top 1%)
+- *2025.09*: 🎉 S2D has been recognized as a Highly Cited Paper by Web of Science (Top 1%)
 - *2024.09*: 🎉 New  paper [DAT: Dialogue-Aware Transformer with Modality-Group Fusion for Human Engagement Estimation](https://arxiv.org/abs/2410.08470) is accepted by MM2024.
 - *2024.08*: 🎉 One paper [From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos](https://arxiv.org/abs/2312.05447) is accepted by TAFFC.
 
