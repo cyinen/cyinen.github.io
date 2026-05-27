@@ -6,11 +6,49 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item" data-lang="en" style="display: inline-block;"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item" data-lang="zh" style="display: none;"><a href="/zh{{ link.url }}">{{ link.title_zh | default: link.title }}</a></li>
           {% endfor %}
+          <li class="masthead__menu-item">
+            <a href="javascript:void(0)" onclick="toggleLang()" id="lang-switch" style="font-weight: bold; border: 1px solid; padding: 2px 10px; border-radius: 4px;">中文</a>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>
 </div>
+
+<script>
+// Determine initial language from URL path
+(function() {
+  var lang = 'en';
+  if (window.location.pathname.startsWith('/zh/') || window.location.pathname === '/zh') {
+    lang = 'zh';
+  }
+  sessionStorage.setItem('site-lang', lang);
+  applyLang(lang);
+})();
+
+function applyLang(lang) {
+  document.querySelectorAll('[data-lang]').forEach(function(el) {
+    el.style.display = el.getAttribute('data-lang') === lang ? 'inline-block' : 'none';
+  });
+  var btn = document.getElementById('lang-switch');
+  if (btn) {
+    btn.textContent = lang === 'en' ? '中文' : 'English';
+  }
+  document.querySelectorAll('.hidden-links [data-lang]').forEach(function(el) {
+    el.style.display = el.getAttribute('data-lang') === lang ? 'inline-block' : 'none';
+  });
+}
+
+function toggleLang() {
+  var current = sessionStorage.getItem('site-lang') || 'en';
+  if (current === 'en') {
+    window.location.href = '/zh/';
+  } else {
+    window.location.href = '/';
+  }
+}
+</script>

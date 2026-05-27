@@ -126,6 +126,10 @@ defaults:
       layout: default
       author_profile: true
 
+# Languages
+languages: ["en", "zh"]
+default_lang: "en"
+
 
 # Sass/SCSS
 sass:
