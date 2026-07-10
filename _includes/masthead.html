@@ -4,7 +4,8 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item" data-lang="en" style="display: inline-block;"><a href="#about-me">Homepage</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item" data-lang="zh" style="display: none;"><a href="#about-me">首页</a></li>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item" data-lang="en" style="display: inline-block;"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             <li class="masthead__menu-item" data-lang="zh" style="display: none;"><a href="/zh{{ link.url }}">{{ link.title_zh | default: link.title }}</a></li>

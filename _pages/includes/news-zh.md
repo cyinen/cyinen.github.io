@@ -1,3 +1,4 @@
+<span class='anchor' id='-news'></span>
 # 🔥 新闻动态
 
 - *2025.10*: 🎉 论文 [Static for Dynamic: Towards a Deeper Understanding of Dynamic Facial Expressions Using Static Expression Data](https://arxiv.org/pdf/2409.06154) 被 TAFFC 接收

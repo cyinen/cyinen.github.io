@@ -1,3 +1,4 @@
+<span class='anchor' id='-honors-and-awards'></span>
 # 🎖 Honors and Awards
 - 2023 CVPR Workshop ABAW5, 情感反应强度估计挑战赛冠军
 - 2024 MM Workshop, 参与度估计挑战赛季军
